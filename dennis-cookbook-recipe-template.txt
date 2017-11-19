@@ -1,0 +1,22 @@
+% -----------------------------------------------------
+\subsection{Template Recipe Name} 
+\noindent\rule[0.5ex]{\linewidth}{1pt}
+
+%Ingredients
+\begin{framed}
+\begin{itemize}
+\item 1/4 cups of ingredient 1
+\item 2 medium pieces of ingredient 2
+\end{itemize}
+\end{framed}
+
+%Instructions
+\begin{enumerate}
+\item 
+Using a peeler...
+\item 
+Bring to a simmer
+\item 
+Let cool for 5 minutes and serve
+\end{enumerate}
+\newpage
